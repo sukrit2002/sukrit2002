@@ -23,4 +23,7 @@ I'm Sukrit Malhotra .I' m currently working on HTML,CSS and python fundamentals 
 ---
 [![](https://visitcount.itsvg.in/api?id=sukrit2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Sukrit Malhotra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sukrit2002&theme=react-dark&include_all_commits=true&count_private=true)]
+
+
+
